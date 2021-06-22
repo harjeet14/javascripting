@@ -1,5 +1,4 @@
 const pets = ['cat', 'dog', 'rat'];
-//let String = " ";
 for (let i = 0; i < pets.length; i++) {
   pets[i] = pets[i] + "s";
 }
